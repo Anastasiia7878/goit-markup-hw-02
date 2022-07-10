@@ -90,7 +90,7 @@ body{
     line-height: 1.71;
     letter-spacing: 0.03em;
     
-    color: var(--secondary-colour);
+    color: var(--secondary-text-colour);
 }
 .work-title,
 .team-title{
@@ -113,7 +113,7 @@ body{
     /* text-align: center; */
     letter-spacing: 0.03em;
     
-    color: var(--secondary-colour);
+    color: var(--secondary-text-colour);
 }
 .team{
     background-color: #F5F4FA;
@@ -167,7 +167,7 @@ body{
     line-height: 1.87;
     letter-spacing: 0.03em;
     
-    color: var(--secondary-colour);
+    color: var(--secondary-text-colour);
 }
 .example-title{
     font-weight: 700;
