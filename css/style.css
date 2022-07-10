@@ -4,6 +4,7 @@
 
 .link {
     text-decoration: none;
+    font-style: normal;
 }
 .list {
     list-style: none;
@@ -67,6 +68,9 @@ body{
     background-color:var(--accent-color);
     cursor: pointer;
 }
+.hero{
+    background-color: #2F303A;
+}
 
 /* ====MAIN==== */
 .pluses-title{
@@ -106,6 +110,9 @@ body{
     
     color: #757575;
 }
+.team{
+    background-color: #F5F4FA;
+}
 
 /* ====Footer==== */
 .address-link,
@@ -114,7 +121,7 @@ body{
     line-height: 1.71;
     letter-spacing: 0.03em;
     
-    /* color: rgba(255, 255, 255, 0.6); */
+    color: rgba(255, 255, 255, 0.6);
 }
 .contact-link:hover,
 .contact-link:focus{
@@ -124,6 +131,9 @@ body{
 .address-link:focus{
     color: #FFFFFF;
 }
+footer{
+    background-color: #2F303A;
+}
 
 
 /* ====PORTFOLIO==== */
@@ -131,7 +141,7 @@ body{
 .filter-btn{
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
     cursor: pointer;
@@ -143,7 +153,7 @@ body{
 }
 .example-text{
     font-size: 16px;
-    line-height: 30px;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     
     color: #757575;
@@ -151,6 +161,9 @@ body{
 .example-title{
     font-weight: 700;
     font-size: 18px;
-    line-height: 36px;
+    line-height: 2;
     letter-spacing: 0.06em;
+}
+.work-example-title{
+    background-color: #FFFFFF;
 }
